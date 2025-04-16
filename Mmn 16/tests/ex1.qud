@@ -1,0 +1,13 @@
+IASN i 0
+JUMP L1
+L0:
+IPRT i
+IADD t1 i 1
+IASN i t1
+L1:
+ILSS t0 i 10
+ISUB t0 1 t0
+JMPZ L0 t0
+HALT
+
+Yehudit Yudelevich, ID: 325905628
