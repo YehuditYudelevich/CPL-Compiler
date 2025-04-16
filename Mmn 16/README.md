@@ -1,4 +1,4 @@
-# Written by Yehudit Yudelevich 325905628
+# Written by Yehudit Yudelevich 
 # CPL Compiler
 
 A simple compiler for the CPL language written in Python.  
